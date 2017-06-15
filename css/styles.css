@@ -1,0 +1,390 @@
+html, body {
+    font-family: 'Lato', sans-serif;
+}
+
+h1, h2, h4, h5, h6 {
+    font-family: 'Lato' !important;
+    font-weight: 800;
+    font-size: 28px;
+     }
+
+body {
+    padding: 0px 0px 0px 0px !important;
+    margin: 0px 0px 0px 0px !important;
+}
+
+
+
+.navbar-default {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+@media (max-width: 425px) {
+    .navbar-default {
+         background-color: #fff !important;
+    }
+    .change {
+        color: #000 !important;
+    }
+} 
+
+.navbar {
+    border-radius: 0px;
+    margin-bottom: 0px;
+    border: 1px solid transparent;
+    
+    -webkit-box-shadow: 0 0px 2px 0px #999;
+    -moz-box-shadow: 0 0px 2px 0px #999;
+    box-shadow: 0 0px 2px 0px #999;
+    
+    margin: 0px 0px 0px 0px;
+}
+
+.navbar-default .navbar-header .navbar-brand {
+    color: #FECC0A !important;
+    text-transform: uppercase;
+    font-weight: 300;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #FECC0A !important;
+}
+
+.navbar-default .navbar-nav>li>a:active {
+    color: #FECC0A !important;
+}
+
+.navbar-default .navbar-nav>li>a.here {
+    color: #FECC0A !important;
+}
+
+
+span.icon-bar {
+    background: #FECC0A !important;
+}
+
+.rounded {
+    border-radius: 10px;
+}
+
+p {
+    font-size: 16px !important;
+}
+
+
+/*FOR INDEX PAGE*/
+
+.header {
+    height: 575px;
+    background: 
+    /* top, transparent red, faked with gradient */ 
+    linear-gradient(
+      rgba(0, 0, 0, 0.25), 
+      rgba(0, 0, 0, 0.25)
+    ),
+    url(../img/school.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.welcome_note {
+    position: relative;
+    top: 270px;
+    left: 12.5%;
+    min-height: auto;
+}
+
+@media (max-width: 425px) {
+    .welcome_note {
+        position: relative;
+        top: 200px;
+        left: auto;
+    }
+    .welcome_note button {
+        padding: 4px 12px;
+        font-size: 16px;
+    }
+}
+
+@media (max-width: 768px) {
+    .welcome_note {
+        left: auto;
+    }
+}
+
+
+.welcome_note h3 {
+    color: #fff;
+    text-transform: uppercase;
+    letter-spacing: 3.5px;
+    display: inline-block;
+    line-height: 1.25;
+    font-weight: 700;
+}
+
+.welcome_note button {
+    background-color: #FECC0A !important;
+    height: 45px;
+    min-width: 150px;
+    text-transform: uppercase;
+    margin: 10px 10px 10px 0px;
+    border-radius: 0px;
+    font-weight: 500;
+    border-color: #FECC0A !important;
+}
+
+.welcome_note button:hover {
+    background-color: transparent;
+}
+
+.welcome_note button:active {
+    background: transparent;
+}
+
+.welcome_note button a {
+    color: rgb(30, 52, 76);
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.talk0 h1 span {
+     font-style: italic;
+     text-transform: uppercase;
+}
+
+
+.talk3 .row button {
+    background-color: #FECC0A !important;
+    height: 45px;
+    min-width: 150px;
+    text-transform: uppercase;
+    margin: 10px 10px 10px 0px;
+    border-radius: 0px;
+    font-weight: 500;
+    border-color: #FECC0A !important;
+}
+
+.talk3 .row button:hover {
+    background-color: transparent;
+}
+
+.talk3 .row button:active {
+    background: transparent;
+}
+
+.talk3 .row button a {
+    color: rgb(30, 52, 76);
+    text-decoration: none;
+    font-weight: 700;
+}
+
+
+
+
+.showcase .row {
+    padding: 35px 0px 35px 0px;
+    text-align: justify; 
+}
+
+.talk0 .row {    
+    padding: 35px 0px 35px 0px;
+    text-align: justify; 
+}
+
+.talk1 .row {
+    padding: 35px 0px 35px 0px;
+    text-align: justify;  
+}
+
+.talk2 .row {
+    padding: 35px 0px 35px 0px;
+    text-align: justify; 
+}
+
+.talk3 .row {
+    text-align: center; 
+}
+
+
+
+
+.talk0 .row p {    
+    margin-bottom: 20px;
+}
+
+.talk1 .row p {
+    margin-bottom: 20px;
+}
+
+.talk2 .row p {
+    margin-bottom: 20px;
+}
+
+.talk3 .row p {
+    margin-bottom: 20px;
+}
+
+
+/*Index page footer area*/
+.footer .row {
+    padding: 50px 0px 50px 0px;
+}
+
+/*END INDEX PAGE*/
+
+
+/*iOS SCROLLBAR*/
+/* Let's get this party started */
+::-webkit-scrollbar {
+    width: 5px;
+}
+ 
+/* Track */
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.25); 
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+}
+ 
+/* Handle */
+::-webkit-scrollbar-thumb {
+    -webkit-border-radius: 10px;
+    border-radius: 10px;
+    background: #1E344C; 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+	background: #1E344C; 
+}
+
+
+.text {
+    color: #1E344C;
+}
+
+
+/*ABOUT US PAGE*/
+.jumbotron {
+    height: 425px;
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.25), 
+      rgba(0, 0, 0, 0.25)
+    ),
+    url(../img/Membership_Quote2-2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.top_bar1 h1 {
+    text-transform: none;
+    font-weight: 700;
+    color: #fff;
+    line-height: 50px;
+    
+}
+
+.top_bar1 p {
+    color: #e5e5e5;
+}
+
+.copy hr {
+    border: 2px solid #FECC0A;
+    width: 75px;
+}
+
+hr.short {
+    border: 2px solid #FECC0A !important;
+    width: 50px;
+    display: inline-block!important;
+    margin-top: 5px;
+}
+
+.top_bar1 .copy {
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+
+.team img {
+    width: 300px;
+    height: 300px;
+}
+
+
+
+
+/*PEOPLE PAGE*/
+.p2 {
+    height: 425px;
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.25), 
+      rgba(0, 0, 0, 0.25)
+    ),
+    url(../img/Minority-Student-Hero-1.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+
+
+
+/*EVENTS PAGE*/
+.p3 {
+    height: 425px;
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.25), 
+      rgba(0, 0, 0, 0.25)
+    ),
+    url(../img/Volunteer-Landing-Page-Hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*JOIN PAGE*/
+.p4 {
+    height: 425px;
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.25), 
+      rgba(0, 0, 0, 0.25)
+    ),
+    url(../img/Student-Recruitment-Hero.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+/*CONTACT US PAGE*/
+.p5 {
+    height: 425px;
+    background: linear-gradient(
+      rgba(0, 0, 0, 0.25), 
+      rgba(0, 0, 0, 0.25)
+    ),
+    url(../img/street.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.msg {
+    height: 150px;
+    display: block;
+    width: 100%;
+    resize: none;
+}
+
+
+
+
+
+
+
+

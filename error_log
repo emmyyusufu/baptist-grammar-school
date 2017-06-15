@@ -1,0 +1,104 @@
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 9
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 10
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 11
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 12
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 13
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 14
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 15
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 16
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 17
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 18
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 19
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_select_db(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 32
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 33
+[24-Jan-2017 05:17:02 CST6CDT] PHP Warning:  mysqli_close(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 76
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 9
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 10
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 11
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 12
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 13
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 14
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 15
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 16
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 17
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 18
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_real_escape_string(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 19
+[24-Jan-2017 05:41:12 CST6CDT] PHP Warning:  mysqli_query(): Couldn't fetch mysqli in /home/pbgs6397/public_html/join.php on line 33
+[24-Jan-2017 06:20:16 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pbgs6397/public_html/join.php on line 85
+[24-Jan-2017 07:48:50 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/pbgs6397/public_html/join.php on line 90
+[24-Jan-2017 08:06:03 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/pbgs6397/public_html/join.php on line 46
+[24-Jan-2017 08:21:07 CST6CDT] PHP Parse error:  syntax error, unexpected '"' in /home/pbgs6397/public_html/join.php on line 42
+[24-Jan-2017 17:04:45 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pbgs6397/public_html/join.php on line 91
+[24-Jan-2017 17:06:23 CST6CDT] PHP Parse error:  syntax error, unexpected '}' in /home/pbgs6397/public_html/join.php on line 96
+[26-Jan-2017 00:05:48 CST6CDT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:05:48 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:05:48 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 54
+[26-Jan-2017 00:17:43 CST6CDT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:17:43 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:17:43 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 54
+[26-Jan-2017 00:22:47 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/pbgs6397/public_html/login.php on line 717
+[26-Jan-2017 00:30:06 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/pbgs6397/public_html/login.php on line 717
+[26-Jan-2017 00:30:14 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/pbgs6397/public_html/login.php on line 717
+[26-Jan-2017 00:31:57 CST6CDT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:31:57 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:31:57 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 54
+[26-Jan-2017 00:32:22 CST6CDT] PHP Warning:  session_start(): Cannot send session cookie - headers already sent by (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:32:22 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/login.php:3) in /home/pbgs6397/public_html/login.php on line 4
+[26-Jan-2017 00:32:22 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 54
+[26-Jan-2017 00:35:27 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 52
+[26-Jan-2017 00:41:54 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 52
+[26-Jan-2017 00:41:54 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 53
+[26-Jan-2017 00:42:55 CST6CDT] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/pbgs6397/public_html/login.php on line 52
+[26-Jan-2017 03:12:42 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[27-Jan-2017 11:46:36 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[27-Jan-2017 11:49:24 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[28-Jan-2017 14:02:58 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 05:17:32 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:26:26 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:32:14 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:32:45 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:35:08 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:36:58 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:39:24 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:44:28 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:44:58 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:50:56 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 20:58:00 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 21:00:02 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 21:00:18 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 21:01:25 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 21:05:10 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 21:06:50 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/user_session.php on line 2
+[01-Feb-2017 21:11:45 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:11:56 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:04 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:09 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:13 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:18 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:23 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:28 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:34 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:41 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:46 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:50 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:54 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:12:56 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:13:03 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:13:06 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:13:09 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:18:57 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:04 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:07 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:10 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:12 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:15 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:17 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:19 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:25 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:33 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:36 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:38 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:47 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:49 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 21:19:52 CST6CDT] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/pbgs6397/public_html/profile.php:3) in /home/pbgs6397/public_html/profile.php on line 4
+[01-Feb-2017 22:19:24 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/pbgs6397/public_html/login.php on line 666

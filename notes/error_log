@@ -1,0 +1,70 @@
+[29-Oct-2016 02:55:08 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pbgs6397_admin'@'localhost' to database 'pbgse' in /home/pbgs6397/public_html/contactus.php on line 10
+[28-Nov-2016 09:25:48 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pbgs6397_admin'@'localhost' to database 'pbgse' in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:35:27 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pbgs6397_admin'@'localhost' to database 'pbgs6397_oldboys' in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:40:40 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:40:45 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:45:59 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:48:58 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: NO) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:49:01 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: NO) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:56:44 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:56:51 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 09:57:03 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:00:27 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:05:13 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:10:28 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:13:57 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pbgs6397_admin'@'localhost' to database 'pbgs6397_oldboys' in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:14:03 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pbgs6397_admin'@'localhost' to database 'pbgs6397_oldboys' in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:19:28 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pbgs6397_admin'@'localhost' to database 'pbgs6397_oldboy' in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:19:49 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admi'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:20:53 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1044): Access denied for user 'pbgs6397_admin'@'localhost' to database 'pbgs6397_oldboys' in /home/pbgs6397/public_html/join.php on line 10
+[28-Nov-2016 10:25:16 CST6CDT] PHP Warning:  move_uploaded_file(images/import.jpg): failed to open stream: No such file or directory in /home/pbgs6397/public_html/join.php on line 34
+[28-Nov-2016 10:25:16 CST6CDT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpXjafVt' to 'images/import.jpg' in /home/pbgs6397/public_html/join.php on line 34
+[28-Nov-2016 10:25:16 CST6CDT] PHP Warning:  mysql_select_db() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 40
+[28-Nov-2016 10:25:16 CST6CDT] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 41
+[28-Nov-2016 10:30:51 CST6CDT] PHP Warning:  mysql_select_db() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 40
+[28-Nov-2016 10:30:51 CST6CDT] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 41
+[28-Nov-2016 10:32:21 CST6CDT] PHP Warning:  move_uploaded_file(images/140625120518-cell-phone-file-0625-horizontal-large-gallery.jpg): failed to open stream: No such file or directory in /home/pbgs6397/public_html/join.php on line 34
+[28-Nov-2016 10:32:21 CST6CDT] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/php0JRS7b' to 'images/140625120518-cell-phone-file-0625-horizontal-large-gallery.jpg' in /home/pbgs6397/public_html/join.php on line 34
+[28-Nov-2016 10:32:21 CST6CDT] PHP Warning:  mysql_select_db() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 40
+[28-Nov-2016 10:32:21 CST6CDT] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 41
+[28-Nov-2016 10:37:06 CST6CDT] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 41
+[28-Nov-2016 10:40:10 CST6CDT] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 40
+[28-Nov-2016 10:42:32 CST6CDT] PHP Parse error:  syntax error, unexpected 'need' (T_STRING) in /home/pbgs6397/public_html/join.php on line 39
+[28-Nov-2016 10:44:15 CST6CDT] PHP Warning:  mysql_select_db() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 39
+[28-Nov-2016 10:44:15 CST6CDT] PHP Warning:  mysql_query() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 40
+[28-Nov-2016 10:51:27 CST6CDT] PHP Warning:  mysql_select_db() expects parameter 1 to be string, resource given in /home/pbgs6397/public_html/join.php on line 39
+[28-Nov-2016 10:51:46 CST6CDT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, resource given in /home/pbgs6397/public_html/join.php on line 39
+[29-Nov-2016 09:18:45 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/pbgs6397/public_html/join.php on line 19
+[29-Nov-2016 09:26:05 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/pbgs6397/public_html/join.php on line 24
+[29-Nov-2016 09:26:17 CST6CDT] PHP Parse error:  syntax error, unexpected ';' in /home/pbgs6397/public_html/join.php on line 24
+[29-Nov-2016 09:27:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pbgs6397/public_html/join.php on line 64
+[29-Nov-2016 09:28:27 CST6CDT] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/pbgs6397/public_html/join.php on line 64
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 19
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 20
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 21
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 22
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 23
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 24
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 25
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 26
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_real_escape_string() expects exactly 2 parameters, 1 given in /home/pbgs6397/public_html/join.php on line 27
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_select_db() expects parameter 1 to be mysqli, string given in /home/pbgs6397/public_html/join.php on line 39
+[29-Nov-2016 09:42:15 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, string given in /home/pbgs6397/public_html/join.php on line 40
+[13-Dec-2016 13:34:21 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/join.php on line 10
+[13-Dec-2016 13:34:21 CST6CDT] PHP Warning:  mysqli_error() expects exactly 1 parameter, 0 given in /home/pbgs6397/public_html/join.php on line 14
+[13-Dec-2016 13:34:50 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'pbgs6397_admin'@'localhost' (using password: YES) in /home/pbgs6397/public_html/contactus.php on line 10
+[13-Dec-2016 13:45:23 CST6CDT] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/pbgs6397/public_html/json.php on line 6
+[13-Dec-2016 13:45:23 CST6CDT] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/pbgs6397/public_html/json.php on line 8
+[13-Dec-2016 13:45:23 CST6CDT] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/pbgs6397/public_html/json.php on line 10
+[13-Dec-2016 14:12:37 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:12:50 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:12:58 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:13:00 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:13:28 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:13:31 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:13:39 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:13:46 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 25
+[13-Dec-2016 14:14:30 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 24
+[13-Dec-2016 14:14:38 CST6CDT] PHP Parse error:  syntax error, unexpected '{' in /home/pbgs6397/public_html/json.php on line 24
+[19-Dec-2016 03:07:29 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pbgs6397/public_html/join.php:3) in /home/pbgs6397/public_html/join.php on line 71
+[19-Dec-2016 03:09:08 CST6CDT] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/pbgs6397/public_html/join.php:3) in /home/pbgs6397/public_html/join.php on line 71
